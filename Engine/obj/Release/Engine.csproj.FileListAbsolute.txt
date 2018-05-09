@@ -1,0 +1,6 @@
+C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\Engine\bin\Release\Engine.dll
+C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\Engine\bin\Release\Engine.pdb
+C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\Engine\obj\Release\Engine.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\Engine\obj\Release\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\Engine\obj\Release\Engine.dll
+C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\Engine\obj\Release\Engine.pdb

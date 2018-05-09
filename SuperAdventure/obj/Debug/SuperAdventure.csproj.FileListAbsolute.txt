@@ -1,0 +1,13 @@
+C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.cache
+C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CopyComplete
+C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
