@@ -40,6 +40,7 @@ namespace Engine
         public const int LOCATION_ID_FARM_FIELD = 7;
         public const int LOCATION_ID_BRIDGE = 8;
         public const int LOCATION_ID_SPIDER_FIELD = 9;
+        public const int LOCATION_ID_FISH_POND = 10;
 
         static World()
         {
@@ -131,11 +132,16 @@ namespace Engine
 
             Location bridge = new Location(LOCATION_ID_BRIDGE, "Bridge", "A stone bridge crosses a wide river.");
 
-            Location spiderField = new Location(LOCATION_ID_SPIDER_FIELD, "Forest", "You see spider webs covering covering the trees in this forest.");
-            spiderField.MonsterLivingHere = MonsterByID(MONSTER_ID_GIANT_SPIDER);
+            Location spiderField = new Location(LOCATION_ID_SPIDER_FIELD, "Forest", "You see spider webs covering covering the trees in this forest.")
+            {
+                MonsterLivingHere = MonsterByID(MONSTER_ID_GIANT_SPIDER)
+            };
+
+            Location fishpond = new Location(LOCATION_ID_FISH_POND, "Fish pond", "You are standing at the bank of a small fish pond.");
 
             // Link the locations together
             home.LocationToNorth = townSquare;
+            home.LocationToSouth = fishpond;
 
             townSquare.LocationToNorth = alchemistHut;
             townSquare.LocationToSouth = home;
@@ -170,6 +176,7 @@ namespace Engine
             Locations.Add(farmersField);
             Locations.Add(bridge);
             Locations.Add(spiderField);
+            Locations.Add(fishpond);
         }
 
         public static Item ItemByID(int id)

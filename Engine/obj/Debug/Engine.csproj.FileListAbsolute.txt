@@ -4,3 +4,9 @@ C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\Engine\obj\
 C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
 C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\Engine\obj\Debug\Engine.dll
 C:\Users\Andrew\Documents\Visual Studio 2017\Projects\SuperAdventure\Engine\obj\Debug\Engine.pdb
+C:\Users\andre\OneDrive\Documents\GitHub\SuperAdventure\Engine\bin\Debug\Engine.dll
+C:\Users\andre\OneDrive\Documents\GitHub\SuperAdventure\Engine\bin\Debug\Engine.pdb
+C:\Users\andre\OneDrive\Documents\GitHub\SuperAdventure\Engine\obj\Debug\Engine.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documents\GitHub\SuperAdventure\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documents\GitHub\SuperAdventure\Engine\obj\Debug\Engine.dll
+C:\Users\andre\OneDrive\Documents\GitHub\SuperAdventure\Engine\obj\Debug\Engine.pdb
